@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.103a4c95.css",
+    "main.js": "/static/js/main.090f4aee.js",
+    "static/js/787.3aecc879.chunk.js": "/static/js/787.3aecc879.chunk.js",
+    "static/media/Ayush.jpg": "/static/media/Ayush.361426116ca9c3857587.jpg",
+    "static/media/login_bg.jpg": "/static/media/login_bg.caa1c5ee9ed029bc298e.jpg",
+    "static/media/home_bg.jpg": "/static/media/home_bg.503f6d7bb509b7ae06ce.jpg",
+    "static/media/output-onlinegiftools.gif": "/static/media/output-onlinegiftools.170532a0ec23d5694847.gif",
+    "static/media/404 Error Page not Found.svg": "/static/media/404 Error Page not Found.18258819242f03777fcb01942b416c7d.svg",
+    "static/media/Anjali.jpg": "/static/media/Anjali.1770ccc08997bcf85172.jpg",
+    "index.html": "/index.html",
+    "main.103a4c95.css.map": "/static/css/main.103a4c95.css.map",
+    "main.090f4aee.js.map": "/static/js/main.090f4aee.js.map",
+    "787.3aecc879.chunk.js.map": "/static/js/787.3aecc879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103a4c95.css",
+    "static/js/main.090f4aee.js"
+  ]
+}

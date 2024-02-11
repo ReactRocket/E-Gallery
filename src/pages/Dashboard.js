@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useNavigate, Outlet, useLocation } from 'react-router-dom'
 import ayush_img from '../assets/images/dashboard/Ayush.jpg'
-import anjali_img from '../assets/images/dashboard/Anjali.jpg'
+import anjali_img from '../assets/images/dashboard/Ayush.jpg'
 export const Dashboard = () => {
     const [isMenu, setIsMenu] = useState(false)
     const navigate = useNavigate()
